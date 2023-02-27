@@ -12,6 +12,7 @@ If no Optional Argument in inserted, as in, "java Connect4AIvAIMinMax", for exam
 The same concept applies to Connect4AIvAIMonteCarlo, except the optional argument in this case is to set the amount of seconds that the algorithm will run for before choosing a move.
 
 -->SinglePlayer Has programs that pit a human player vs an AI
+
 	Compile with "javac *.java"
 	
 The program execution follow the same concept as the AIvAI programs, where you can input an optional argument to pick the "difficulty"
