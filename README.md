@@ -6,7 +6,7 @@ Java program that implements min-max, alpha-beta, and Monte Carlo algorithms for
 	
 -To execute the programs that use min-max or alpha-beta: "java Connect4AIvAIMinMax [Optional Argument]" or "java Connect4AIvAI AlphaBeta [Optional Argument]".
 
-The [Optional Argument] is in place so taht you can pick a tree depth, or, in other words, the difficulty of the AI.
+The [Optional Argument] is in place so that you can pick a tree depth, or, in other words, the difficulty of the AI.
 If no Optional Argument in inserted, as in, "java Connect4AIvAIMinMax", for example, then the tree depth will default to 6
 	
 The same concept applies to Connect4AIvAIMonteCarlo, except the optional argument in this case is to set the amount of seconds that the algorithm will run for before choosing a move.
